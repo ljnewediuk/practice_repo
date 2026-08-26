@@ -21,7 +21,7 @@ answer5 <- 6
 <<<<<<< HEAD
 answer5 <- 21
 
-#kgill660kjknk
+#kgill660
 
 
 
