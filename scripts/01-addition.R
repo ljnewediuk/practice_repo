@@ -14,4 +14,7 @@ answer3 <- 25
 answer4 <- 1
 
 #bigdawgwasalsohere
-answer5 <- 21
+answer5 <- 67
+
+#What's 9 + 10
+answer6 <- 21
