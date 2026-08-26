@@ -13,8 +13,8 @@ answer3 <- 25
 #builderbernardwashere
 answer4 <- 1
 
-<<<<<<< HEAD
 #so was I
+<<<<<<< HEAD
 answer5 <- 6
 =======
 #bigdawgwasalsohere
@@ -31,3 +31,6 @@ answer5 <- 67
 answer6 <- 21
 >>>>>>> 45433fc3fa82b588dd41b7e47a6cbc4f8ce5a5c2
 >>>>>>> 039582ec9a2f1cddec17c7f706bc7f55145f46b9
+=======
+answer5 <- 6
+>>>>>>> 3d7bdcae724215855917949970e3274ead7aa617
