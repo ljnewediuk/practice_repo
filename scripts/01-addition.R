@@ -13,13 +13,5 @@ answer3 <- 25
 #builderbernardwashere
 answer4 <- 1
 
-<<<<<<< HEAD
 #so was I
 answer5 <- 6
-=======
-#bigdawgwasalsohere
-answer5 <- 67
-
-#What's 9 + 10
-answer6 <- 21
->>>>>>> 45433fc3fa82b588dd41b7e47a6cbc4f8ce5a5c2
