@@ -5,4 +5,4 @@
 answer <- 2 + 4
 
 # What is 9 + 9
-answer2 <- 9 + 9
+answer2 <- 17
